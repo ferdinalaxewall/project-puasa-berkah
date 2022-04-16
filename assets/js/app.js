@@ -1,1 +1,1 @@
-document.writeln('Ferdinal kontol');
+document.writeln('Ferdinal ganteng');
